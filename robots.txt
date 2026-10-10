@@ -1,0 +1,17 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://apsdrone.com/sitemap.xml
+Sitemap: https://apsdrone.com/video-sitemap.xml
